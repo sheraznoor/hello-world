@@ -1,2 +1,3 @@
 # hello-world
-into to first code
+Intro to first code
+Not sure a new journey or something. Keep pushing the boundaries
